@@ -8,23 +8,29 @@ Kelas : C
 
 # Screenshot
 1. Splashscreen
+   
 ![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/1.Screenshot.jpg?raw=true)
 
-2. Login
+3. Login
+
 ![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/2.Login.jpg?raw=true)
 
-3. Daftar
+4. Daftar
+   
 ![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/3.Daftar.jpg?raw=true)
 
-4. Lupa Password
+6. Lupa Password
+   
 ![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/4.Lupa%20Password.jpg?raw=true)
 
-5. Home
+8. Home
 ![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/5.Home.jpg?raw=true)
 
-6. Akun
+9. Akun
+    
 ![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/5.Home.jpg?raw=true)
 
-7. Profil
+11. Profil
+    
 ![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/7.Profil.jpg?raw=true)
 
