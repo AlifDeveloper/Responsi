@@ -30,11 +30,10 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(
-              Icons.flash_on,
-              size: 100,
-              color: Colors.blue,
-            ),
+            Image.asset(
+                    'assets/image.png',
+                    height: 100,
+                  ),
             SizedBox(height: 20),
             Text(
               'Welcome to MyApp',
