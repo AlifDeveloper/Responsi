@@ -28,7 +28,7 @@ Kelas : C
 
 6. Akun
     
-![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/5.Home.jpg?raw=true)
+![alt text](https://github.com/AlifDeveloper/Responsi/blob/main/screenshot/6.Akun.jpg?raw=true)
 
 7. Profil
     
